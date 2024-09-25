@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Appointment-Calendar-React/static/css/main.c72b9f06.css",
+    "main.js": "/Appointment-Calendar-React/static/js/main.67c76b78.js",
+    "index.html": "/Appointment-Calendar-React/index.html",
+    "main.c72b9f06.css.map": "/Appointment-Calendar-React/static/css/main.c72b9f06.css.map",
+    "main.67c76b78.js.map": "/Appointment-Calendar-React/static/js/main.67c76b78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c72b9f06.css",
+    "static/js/main.67c76b78.js"
+  ]
+}
